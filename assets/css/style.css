@@ -145,7 +145,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*removed duplicate styling*/
 .optimization img {
     max-height: 200px;
 }
